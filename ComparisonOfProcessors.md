@@ -33,17 +33,17 @@ NXP、VLSI、Digital Semiconductor、 Sony、Qualcomm、HP、IBM······
 华为海思、全志、瑞芯微、MTK（中国台湾）
 
 
-![ARM合作商](/images/ARM合作商.png)
+![ARM合作商](/images/常用处理器使用比较/ARM合作商.png)
 
 # ARM型号的发展历程
 
 
 
 
-![ARM常用型号列表](/images/ARM常用型号列表.png)
+![ARM常用型号列表](/images/常用处理器使用比较/ARM常用型号列表.png)
 
 
-![ARM发展系列](/images/ARM发展系列.png)
+![ARM发展系列](/images/常用处理器使用比较/ARM发展系列.png)
 
 ARM系列|场景
 :---:|:---:
