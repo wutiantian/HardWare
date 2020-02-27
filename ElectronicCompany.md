@@ -34,7 +34,7 @@ https://gitstar-ranking.com/users
 Microsoft|微软|![  ](/images/元器件供应商图标/  .png) |电脑制造商|www.microsoft.com|https://github.com/Microsoft|由比尔·盖茨与保罗·艾伦创办于1975年，公司总部设立在华盛顿州的雷德蒙德（Redmond，邻近西雅图）。以研发、制造、授权和提供广泛的电脑软件服务业务为主。
 xilinx|赛灵思|![  ](/images/元器件供应商图标/  .png)|半导体公司|http://www.xilinx.com/|https://github.com/xilinx|Xilinx (赛灵思)公司是可编程逻辑产品的完全供应商,可以提供包括半导体IC、软件开发工具、定制系统和技术支持等一整套的产品和服务。
 intel|英特尔|![  ](/images/元器件供应商图标/  .png)|半导体公司|www.intel.com  |https://github.com/intel|2015年12月斥资167亿美元收购了Altera公司（FPGA两巨头之一）。|英特尔是美国一家以研制CPU处理器为主的公司.
-Altera|爱特梅尔|![  ](/images/元器件供应商图标/  .png)  |半导体公司| www.altera.com.cn|   |Altera公司1983年成立,中文名称:阿尔特拉,总部在美国加州,是专业设计、生产、销售高性能、高密度可编程逻辑器件(PLD)及相应开发工具的一家公司。2015年1被intel收购。
+Altera|爱特梅尔|![altera](/images/元器件供应商图标/altera.jpg)  |半导体公司| www.altera.com.cn|   |Altera公司1983年成立,中文名称:阿尔特拉,总部在美国加州,是专业设计、生产、销售高性能、高密度可编程逻辑器件(PLD)及相应开发工具的一家公司。2015年1被intel收购。
 Cypress|赛普拉斯| ![  ](/images/元器件供应商图标/  .png)   |半导体公司|http://www.cypress.com|   |Cypress赛普拉斯半导体公司生产高性能IC产品,用于数据传输、远程通讯、PC和军用系统。
 freescale|飞思卡尔|![  ](/images/元器件供应商图标/  .png)|半导体公司|http://www.freescale.com.cn |  |飞思卡尔是全球嵌入式处理解决方案、高级汽车电子、消费电子、工业控制和网络市场的领导者。
 Microchip|微芯|![  ](/images/元器件供应商图标/  .png)  |半导体公司| http://www.microchip.com/|  |全球领先的单片机和模拟半导体供应商,为全球数以千计的消费类产品提供低风险的产品开发、更低的系统总成本和更快的上市时间。
@@ -44,13 +44,13 @@ NVIDIA|英伟达|![  ](/images/元器件供应商图标/  .png)|显卡生产商|
 NXP|恩智浦|![  ](/images/元器件供应商图标/  .png)  |半导体公司|www.nxp.com| |前身为飞利浦。恩智浦提供半导体、系统解决方案和软件,为手机、个人媒体播放器、电视、机顶盒、识别应用、汽车以及其他广泛的电子设备提供更优质的感官体验。
 Power|美国电源集成|![  ](/images/元器件供应商图标/  .png)|半导体公司|www.powerint.com | |Power Integrations公司,成立于1988年,是高电压模拟集成用于功率转换集成电路(IC)的领先供应商。
 Sipex|西伯斯|![  ](/images/元器件供应商图标/  .png)      |半导体公司|www.exar.com|   |Sipex于2007年被Exar公司收购。设计、生产、销售高性能、高附加值模拟IC。生产的产品主要面向三个快速增长的市场:数据通讯和通信、电池/便携产品、工业控制/仪器。
-ADI|亚德诺|![  ](/images/元器件供应商图标/  .png)|半导体公司|http://www.analog.com|  |ADI公司是业界广泛认可的数据转换和信号调理技术全球领先的供应商
+ADI|亚德诺|![analog](/images/元器件供应商图标/analog.jpg)|半导体公司|http://www.analog.com|  |ADI公司是业界广泛认可的数据转换和信号调理技术全球领先的供应商
 TI|德州仪器|![  ](/images/元器件供应商图标/  .png)|半导体公司|www.ti.com|  |德州仪器(TI)公司总部位于美国德克萨斯州达拉斯城,世界领先的数字信号处理和模拟技术的设计商、供应商.
 Maxim|美信|![  ](/images/元器件供应商图标/  .png) |半导体公司| www.maxim-ic.com| |总部在美国加州。在设计、发展、生产线性和混合信号集成电路产品方面处于世界领先地位。
 Vishay|威世|![  ](/images/元器件供应商图标/  .png)|半导体公司|http://www.vishay.com/ | |Vishay威世公司是美国和欧洲地区最大的无源器件制造商,也是著名的分立半导体器件和IC制造商。
 Qualcomm|高通|![  ](/images/元器件供应商图标/  .png)|半导体公司|https://www.qualcomm.com/|  |创立于1985年，总部设于美国加利福尼亚州圣迭戈市，是全球3G、4G与5G技术研发的领先企业
 Micron|美光|![  ](/images/元器件供应商图标/  .png)|   半导体公司|http://www.micronsemi.com|  |Micron存储器方案被应用于计算机及外设、消费电子、CAD/CAM、通信、办公室自动化、网络和数据处理、图形显示等。
-Agilent|安捷伦|![  ](/images/元器件供应商图标/  .png)           |仪器仪表|http://www.agilent.com/|  |为通信、电子、生命科学和医疗保健业的快速增长市场领域提供各种可行的解决方案。
+Agilent|安捷伦|![Agilent](/images/元器件供应商图标/agilent.jpg)|仪器仪表|http://www.agilent.com/|  |为通信、电子、生命科学和医疗保健业的快速增长市场领域提供各种可行的解决方案。
 Renesas|瑞萨|![  ](/images/元器件供应商图标/  .png) |半导体公司|www.renesas.com/||瑞萨以世界占有率首位的MCU为事业核心,大力推动系统LSI事业全球化、新兴发展国家的市场强化、绿色环保等新领域的业务
 Linear|凌力尔特|![  ](/images/元器件供应商图标/  .png)|半导体公司|   ||主要产品门类涵盖放大器、电池管理、数据转换器、高频、接口、电压调节器和电压基准
 Fairchild|飞兆|![  ](/images/元器件供应商图标/  .png)     |半导体公司|||Fairchild飞兆半导体在功率和信号路径产品的专业知识帮助客户差异化的产品和解决困难的技术挑战。
@@ -77,9 +77,9 @@ Hisilicon|华为海思半导体|
 alibaba|阿里巴巴|![  ](/images/元器件供应商图标/  .png)   |半导体公司|    |https://github.com/alibaba
 XiaoMi|小米|![  ](/images/元器件供应商图标/  .png) |硬件生产商|www.mi.com|https://github.com/XiaoMi
 rock-chips|瑞芯微|![  ](/images/元器件供应商图标/  .png)   |半导体公司| http://www.rock-chips.com/|https://github.com/rockchip-linux
-allwinner|全志|![  ](/images/元器件供应商图标/  .png)  |半导体公司|http://www.allwinnertech.com/|https://github.com/allwinner-zh    
+allwinner|全志|![Allwinner](/images/元器件供应商图标/Allwinner.png)  |半导体公司|http://www.allwinnertech.com/|https://github.com/allwinner-zh    
 Firefly|萤火虫|![  ](/images/元器件供应商图标/  .png) |外包方案|https://github.com/T-Firefly|专做瑞芯微ARM芯片
-Amlogic|晶晨|![  ](/images/元器件供应商图标/  .png)     |半导体公司|https://www.amlogic.com/|晶晨半导体，总部设立在上海，在视频、音频和图像处理领域提供先进的产品解决方案，广泛应用于数字电视、数码相框、家庭媒体中心和机顶盒等消费电子产品中.
+Amlogic|晶晨|![Amlogic](/images/元器件供应商图标/Amlogic.jpg)     |半导体公司|https://www.amlogic.com/|晶晨半导体，总部设立在上海，在视频、音频和图像处理领域提供先进的产品解决方案，广泛应用于数字电视、数码相框、家庭媒体中心和机顶盒等消费电子产品中.
 ZLG|广州致远电子|![  ](/images/元器件供应商图标/  .png)|外包方案|https://www.zlg.cn/|https://github.com/zlgopen|
 wch|南京沁恒|![  ](/images/元器件供应商图标/  .png) |外包方案|http://www.wch.cn/products/CH340.html| CH340转换芯片
 HUADA|华大半导体|![  ](/images/元器件供应商图标/  .png)       
