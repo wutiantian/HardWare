@@ -31,69 +31,67 @@ https://gitstar-ranking.com/users
 
 英文名|中文名|商标|行业、性质|官网|github仓库地址|公司介绍
 ---|---|---|---|---|---|:---:
-Amlogic|晶晨|     |半导体公司|https://www.amlogic.com/|晶晨半导体，总部设立在上海，是一家业界领先的半导体公司，在视频、音频和图像处理领域提供先进的产品解决方案，广泛应用于数字电视、数码相框、家庭媒体中心和机顶盒等消费电子产品中。晶晨半导体为客户提供一整套综合的方案，以协助他们与时俱进地为消费者推出高品质的电子产品。在这种良好合作关系下，使晶晨半导体的客户有信心和能力专注于他们的核心业务。晶晨半导体先进的网络技术进一步扩展了用户使用电子产品接入互联网的感受，开创了一个消费类电子产品连接到每个家庭和每个人的新时代
-Realtek|瑞昱|   |半导体公司|   |瑞昱(yù)半导体成立于1987年，位于台湾「硅谷」的新竹科学园区，凭借当年几位年轻工程师的热情与毅力，走过艰辛的草创时期到今日具世界领导地位的专业IC设计公司，瑞昱半导体劈荆斩棘，展现旺盛的企图心与卓越的竞争力，开发出广受全球市场肯定与欢迎的高性能、高品质与高经济效益的IC解决方案。瑞昱半导体自成立以来一直保持稳定的成长，归功于瑞昱对产品/技术研发与创新的执着与努力，同时也归因于瑞昱的优良传统。
-Microsoft|微软|             |https://github.com/Microsoft
-xilinx|赛灵思||半导体公司|http://www.xilinx.com/|https://github.com/xilinx|Xilinx (赛灵思)公司是可编程逻辑产品的完全供应商,可以提供包括半导体IC、软件开发工具、定制系统和技术支持等一整套的产品和服务。
-intel|  https://github.com/intel|2015年12月斥资167亿美元收购了Altera公司（FPGA两巨头之一）。
-altera|爱特梅尔|  |半导体公司| www.altera.com.cn|Altera公司1983年成立,中文名称:阿尔特拉,总部在美国加州,是专业设计、生产、销售高性能、高密度可编程逻辑器件(PLD)及相应开发工具的一家公司。2015年1被intel收购。
-Cypress|赛普拉斯|    |半导体公司|http://www.cypress.com| Cypress赛普拉斯半导体公司生产高性能IC产品,用于数据传输、远程通讯、PC和军用系统。
-freescale|飞思卡尔|                     |半导体公司|http://www.freescale.com.cn |  |飞思卡尔是全球嵌入式处理解决方案、高级汽车电子、消费电子、工业控制和网络市场的领导者。
-Microchip|微芯|                              |半导体公司| http://www.microchip.com/|  全球领先的单片机和模拟半导体供应商,为全球数以千计的消费类产品提供低风险的产品开发、更低的系统总成本和更快的上市时间。
-NS|美国国家半导体|      |半导体公司|http://www.national.com/| 模拟和混合信号半导体制造商
-ON|安森美|         |半导体公司|http://www.onsemi.com |   |世界最大模拟IC、逻辑IC和分立半导体元件供应商
-NVIDIA|英伟达|           |显卡生产商|www.nvidia.com|https://github.com/NVIDIA|公司创立于1993年，总部位于美国加利福尼亚州圣克拉拉市。全球可编程图形处理技术领袖
-rock-chips|瑞芯微|   |半导体公司| http://www.rock-chips.com/|https://github.com/rockchip-linux
-allwinner|全志|  |半导体公司|http://www.allwinnertech.com/|https://github.com/allwinner-zh
-raspberrypi|树莓派|   |外包方案|http://www.shumeipai.net|https://github.com/raspberrypi
-Arduino|  |  |https://www.arduino.cc/|https://www.arduino.cn/|https://github.com/arduino
-STMicroelectronics|意法半导体|https://github.com/stmicroelectronics
-ARM|安谋科技|  |  |https://www.arm.com/|https://github.com/Arm
-NXP|恩智浦|  |半导体公司|              |前身为飞利浦。恩智浦提供半导体、系统解决方案和软件,为手机、个人媒体播放器、电视、机顶盒、识别应用、汽车以及其他广泛的电子设备提供更优质的感官体验。
-Power|   |             |www.powerint.com | |Power Integrations公司,成立于1988年,是高电压模拟集成用于功率转换集成电路(IC)的领先供应商。
-Sipex|          |设计、生产、销售高性能、高附加值模拟IC。生产的产品主要面向三个快速增长的市场:数据通讯和通信、电池/便携产品、工业控制/仪器。
-ADI|亚德诺||   |半导体公司|http://www.analog.com|ADI公司是业界广泛认可的数据转换和信号调理技术全球领先的供应商
-TI|德州仪器|  ||半导体公司|www.ti.com|  |德州仪器(TI)公司总部位于美国德克萨斯州达拉斯城,世界领先的数字信号处理和模拟技术的设计商、供应商.
-Maxim|美信|                      | www.maxim-ic.com| |总部在美国加州。在设计、发展、生产线性和混合信号集成电路产品方面处于世界领先地位。
-Vishay|威世|    |半导体公司|http://www.vishay.com/ | |Vishay威世公司是美国和欧洲地区最大的无源器件制造商,也是著名的分立半导体器件和IC制造商。
-SDK|联发科|  
-   |高通|
-Micron|美光||   半导体公司|http://www.micronsemi.com|  |Micron存储器方案被应用于计算机及外设、消费电子、CAD/CAM、通信、办公室自动化、网络和数据处理、图形显示等。
-Agilent|安捷伦|           |仪器仪表|http://www.agilent.com/|  |为通信、电子、生命科学和医疗保健业的快速增长市场领域提供各种可行的解决方案。
-Renesas|瑞萨   |             |       |www.renesas.com/||瑞萨以世界占有率首位的MCU为事业核心,大力推动系统LSI事业全球化、新兴发展国家的市场强化、绿色环保等新领域的业务
-Linear|凌力尔特||半导体公司|   ||主要产品门类涵盖放大器、电池管理、数据转换器、高频、接口、电压调节器和电压基准
-Fairchild|飞兆|     |半导体公司|||Fairchild飞兆半导体在功率和信号路径产品的专业知识帮助客户差异化的产品和解决困难的技术挑战。
-IR|国际整流器|   |半导体公司|      |高级电源管理技术的先驱及全球领先的数字,模拟及混合信号集成电路,先进电路器件,动力系统和元件。
-NEC|日电|           |半导体公司|http://www.nec.com.cn/ |公司总部位于日本东京,是全球五大电脑制造商之一,也是为数不多的能够在半导体、电子器件、通讯、计算机外设、图像和计算机领域提供全线产品的公司之一。
-ROHM|罗姆|          |半导体公司|http://www.rohm.com/|     |ROHM罗姆有限公司成立于1958年,位于日本京都, ROHM的设计和制造半导体,集成电路等电子元器件。这些组件找到一个动态的和不断增长的无线通信,计算机,汽车和消费电子市场的家。 
-SAMSUNG|三星||                       |半导体公司|https://github.com/Samsung
-Micrel|麦瑞半导体<br>麦克雷尔| |半导体公司|http://www.micrel.com/ |   |一家集成电路解决方案的全球模拟,以太网和高带宽市场的领先制造商。
-
-
+Microsoft|微软|![  ](/images/元器件供应商图标/  .png) |电脑制造商|www.microsoft.com|https://github.com/Microsoft|由比尔·盖茨与保罗·艾伦创办于1975年，公司总部设立在华盛顿州的雷德蒙德（Redmond，邻近西雅图）。以研发、制造、授权和提供广泛的电脑软件服务业务为主。
+xilinx|赛灵思|![  ](/images/元器件供应商图标/  .png)|半导体公司|http://www.xilinx.com/|https://github.com/xilinx|Xilinx (赛灵思)公司是可编程逻辑产品的完全供应商,可以提供包括半导体IC、软件开发工具、定制系统和技术支持等一整套的产品和服务。
+intel|英特尔|![  ](/images/元器件供应商图标/  .png)|半导体公司|www.intel.com  |https://github.com/intel|2015年12月斥资167亿美元收购了Altera公司（FPGA两巨头之一）。|英特尔是美国一家以研制CPU处理器为主的公司.
+Altera|爱特梅尔|![  ](/images/元器件供应商图标/  .png)  |半导体公司| www.altera.com.cn|   |Altera公司1983年成立,中文名称:阿尔特拉,总部在美国加州,是专业设计、生产、销售高性能、高密度可编程逻辑器件(PLD)及相应开发工具的一家公司。2015年1被intel收购。
+Cypress|赛普拉斯| ![  ](/images/元器件供应商图标/  .png)   |半导体公司|http://www.cypress.com|   |Cypress赛普拉斯半导体公司生产高性能IC产品,用于数据传输、远程通讯、PC和军用系统。
+freescale|飞思卡尔|![  ](/images/元器件供应商图标/  .png)|半导体公司|http://www.freescale.com.cn |  |飞思卡尔是全球嵌入式处理解决方案、高级汽车电子、消费电子、工业控制和网络市场的领导者。
+Microchip|微芯|![  ](/images/元器件供应商图标/  .png)  |半导体公司| http://www.microchip.com/|  |全球领先的单片机和模拟半导体供应商,为全球数以千计的消费类产品提供低风险的产品开发、更低的系统总成本和更快的上市时间。
+NS|美国国家半导体|![  ](/images/元器件供应商图标/  .png)|半导体公司|http://www.national.com/| |模拟和混合信号半导体制造商
+ON|安森美|![  ](/images/元器件供应商图标/  .png)  |半导体公司|http://www.onsemi.com |   |世界最大模拟IC、逻辑IC和分立半导体元件供应商
+NVIDIA|英伟达|![  ](/images/元器件供应商图标/  .png)|显卡生产商|www.nvidia.com|https://github.com/NVIDIA|公司创立于1993年，总部位于美国加利福尼亚州圣克拉拉市。全球可编程图形处理技术领袖
+NXP|恩智浦|![  ](/images/元器件供应商图标/  .png)  |半导体公司|www.nxp.com| |前身为飞利浦。恩智浦提供半导体、系统解决方案和软件,为手机、个人媒体播放器、电视、机顶盒、识别应用、汽车以及其他广泛的电子设备提供更优质的感官体验。
+Power|美国电源集成|![  ](/images/元器件供应商图标/  .png)|半导体公司|www.powerint.com | |Power Integrations公司,成立于1988年,是高电压模拟集成用于功率转换集成电路(IC)的领先供应商。
+Sipex|西伯斯|![  ](/images/元器件供应商图标/  .png)      |半导体公司|www.exar.com|   |Sipex于2007年被Exar公司收购。设计、生产、销售高性能、高附加值模拟IC。生产的产品主要面向三个快速增长的市场:数据通讯和通信、电池/便携产品、工业控制/仪器。
+ADI|亚德诺|![  ](/images/元器件供应商图标/  .png)|半导体公司|http://www.analog.com|  |ADI公司是业界广泛认可的数据转换和信号调理技术全球领先的供应商
+TI|德州仪器|![  ](/images/元器件供应商图标/  .png)|半导体公司|www.ti.com|  |德州仪器(TI)公司总部位于美国德克萨斯州达拉斯城,世界领先的数字信号处理和模拟技术的设计商、供应商.
+Maxim|美信|![  ](/images/元器件供应商图标/  .png) |半导体公司| www.maxim-ic.com| |总部在美国加州。在设计、发展、生产线性和混合信号集成电路产品方面处于世界领先地位。
+Vishay|威世|![  ](/images/元器件供应商图标/  .png)|半导体公司|http://www.vishay.com/ | |Vishay威世公司是美国和欧洲地区最大的无源器件制造商,也是著名的分立半导体器件和IC制造商。
+Qualcomm|高通|![  ](/images/元器件供应商图标/  .png)|半导体公司|https://www.qualcomm.com/|  |创立于1985年，总部设于美国加利福尼亚州圣迭戈市，是全球3G、4G与5G技术研发的领先企业
+Micron|美光|![  ](/images/元器件供应商图标/  .png)|   半导体公司|http://www.micronsemi.com|  |Micron存储器方案被应用于计算机及外设、消费电子、CAD/CAM、通信、办公室自动化、网络和数据处理、图形显示等。
+Agilent|安捷伦|![  ](/images/元器件供应商图标/  .png)           |仪器仪表|http://www.agilent.com/|  |为通信、电子、生命科学和医疗保健业的快速增长市场领域提供各种可行的解决方案。
+Renesas|瑞萨|![  ](/images/元器件供应商图标/  .png) |半导体公司|www.renesas.com/||瑞萨以世界占有率首位的MCU为事业核心,大力推动系统LSI事业全球化、新兴发展国家的市场强化、绿色环保等新领域的业务
+Linear|凌力尔特|![  ](/images/元器件供应商图标/  .png)|半导体公司|   ||主要产品门类涵盖放大器、电池管理、数据转换器、高频、接口、电压调节器和电压基准
+Fairchild|飞兆|![  ](/images/元器件供应商图标/  .png)     |半导体公司|||Fairchild飞兆半导体在功率和信号路径产品的专业知识帮助客户差异化的产品和解决困难的技术挑战。
+IR|国际整流器|![  ](/images/元器件供应商图标/  .png)   |半导体公司|    |  |高级电源管理技术的先驱及全球领先的数字,模拟及混合信号集成电路,先进电路器件,动力系统和元件。
+NEC|日电|![  ](/images/元器件供应商图标/  .png)|半导体公司|www.nec.com.cn|   |公司总部位于日本东京,是全球五大电脑制造商之一,也是为数不多的能够在半导体、电子器件、通讯、计算机外设、图像和计算机领域提供全线产品的公司之一。
+ROHM|罗姆|![  ](/images/元器件供应商图标/  .png)          |半导体公司|http://www.rohm.com/|     |ROHM罗姆有限公司成立于1958年,位于日本京都, ROHM的设计和制造半导体,集成电路等电子元器件。这些组件找到一个动态的和不断增长的无线通信,计算机,汽车和消费电子市场的家。 
+Micrel|麦瑞半导体<br>麦克雷尔|![  ](/images/元器件供应商图标/  .png) |半导体公司|http://www.micrel.com/ |   |一家集成电路解决方案的全球模拟,以太网和高带宽市场的领先制造商。
+SAMSUNG|三星|![  ](/images/元器件供应商图标/  .png) |半导体公司|https://github.com/Samsung
+ARM|安谋|![  ](/images/元器件供应商图标/  .png)  |方案设计|https://www.arm.com/|https://github.com/Arm
+STMicroelectronics|意法半导体|![  ](/images/元器件供应商图标/  .png)|www.stm.com|https://github.com/stmicroelectronics
+raspberrypi|树莓派|![  ](/images/元器件供应商图标/  .png)   |外包方案|http://www.shumeipai.net|https://github.com/raspberrypi
+Arduino|  |![  ](/images/元器件供应商图标/  .png)  |https://www.arduino.cc/|https://www.arduino.cn/|https://github.com/arduino
 
 
 ## 中国
 
 英文名|中文名|商标|行业、性质|官网|github仓库地址|公司介绍
 ---|---|---|---|---|---|:---:
-PANJIT|强茂||http://www.panjit.com.tw/|   |半导体公司|营业项目:功率式组件,嵌入式控制模块,封装测试。PANJIT强茂产品所应用的领域包括电脑、通信、消费性电器、汽车及相关应用。PANJIT制造的产品虽是小零件,却是面向广大的世界市场,因此我们从不自限于单纯的制造者成为替顾客创造价值的世界级半导体供应商!
-Fujitsu|富士通|http://www.fujitsu.com/cn/ |    |半导体公司| Fujitsu富士通公司创立于1935年,公司总部在日本东京,是生产、销售包括软件、计算机和信息处理平台、通讯系统、半导体和电子器件的跨国公司。
+MTK|联发科|![  ](/images/元器件供应商图标/  .png)  |半导体公司|https://www.mediatek.com/|  |中国台湾联发科技股份有限公司（MediaTek.Inc）是全球著名IC设计厂商，专注于无线通讯及数字多媒体等技术领域。其提供的芯片整合系统解决方案，包含无线通讯、高清数字电视、光储存、DVD及蓝光等相关产品。
+PANJIT|强茂|![  ](/images/元器件供应商图标/  .png)|http://www.panjit.com.tw/|   |半导体公司|营业项目:功率式组件,嵌入式控制模块,封装测试。PANJIT强茂产品所应用的领域包括电脑、通信、消费性电器、汽车及相关应用。PANJIT制造的产品虽是小零件,却是面向广大的世界市场,因此我们从不自限于单纯的制造者成为替顾客创造价值的世界级半导体供应商!
+Fujitsu|富士通|![  ](/images/元器件供应商图标/  .png)|http://www.fujitsu.com/cn/ |    |半导体公司| Fujitsu富士通公司创立于1935年,公司总部在日本东京,是生产、销售包括软件、计算机和信息处理平台、通讯系统、半导体和电子器件的跨国公司。
+Realtek|瑞昱|![  ](/images/元器件供应商图标/  .png)   |半导体公司|   |瑞昱(yù)半导体成立于1987年，位于台湾「硅谷」的新竹科学园区，全球市场肯定与欢迎的高性能、高品质与高经济效益的IC解决方案。
 Hisilicon|华为海思半导体|    
-alibaba|阿里巴巴|   |半导体公司|    |https://github.com/alibaba
-XiaoMi|小米|             |硬件生产商|www.mi.com|https://github.com/XiaoMi    
-Firefly|萤火虫|    |外包方案|https://github.com/T-Firefly|专做瑞芯微ARM芯片
-ZLG|广州致远电子|    |外包方案|https://www.zlg.cn/|https://github.com/zlgopen|
-wch|南京沁恒|      |外包方案|http://www.wch.cn/products/CH340.html| CH340转换芯片
-HUADA|华大半导体       
-Goodix|汇顶科技        
-Silan|士兰微电子       
-Willsemi|韦尔半导体      
-GigaDevice|兆易创新       
-YEESTOR|得一微电子    
-Ingenic|君正集成电路   
-Maxio|联芸科技     
-Smic|中芯国际   
-Ymtc|长江存储		
+alibaba|阿里巴巴|![  ](/images/元器件供应商图标/  .png)   |半导体公司|    |https://github.com/alibaba
+XiaoMi|小米|![  ](/images/元器件供应商图标/  .png) |硬件生产商|www.mi.com|https://github.com/XiaoMi
+rock-chips|瑞芯微|![  ](/images/元器件供应商图标/  .png)   |半导体公司| http://www.rock-chips.com/|https://github.com/rockchip-linux
+allwinner|全志|![  ](/images/元器件供应商图标/  .png)  |半导体公司|http://www.allwinnertech.com/|https://github.com/allwinner-zh    
+Firefly|萤火虫|![  ](/images/元器件供应商图标/  .png) |外包方案|https://github.com/T-Firefly|专做瑞芯微ARM芯片
+Amlogic|晶晨|![  ](/images/元器件供应商图标/  .png)     |半导体公司|https://www.amlogic.com/|晶晨半导体，总部设立在上海，在视频、音频和图像处理领域提供先进的产品解决方案，广泛应用于数字电视、数码相框、家庭媒体中心和机顶盒等消费电子产品中.
+ZLG|广州致远电子|![  ](/images/元器件供应商图标/  .png)|外包方案|https://www.zlg.cn/|https://github.com/zlgopen|
+wch|南京沁恒|![  ](/images/元器件供应商图标/  .png) |外包方案|http://www.wch.cn/products/CH340.html| CH340转换芯片
+HUADA|华大半导体|![  ](/images/元器件供应商图标/  .png)       
+Goodix|汇顶科技|![  ](/images/元器件供应商图标/  .png)        
+Silan|士兰微电子|![  ](/images/元器件供应商图标/  .png)       
+Willsemi|韦尔半导体|![  ](/images/元器件供应商图标/  .png)      
+GigaDevice|兆易创新|![  ](/images/元器件供应商图标/  .png)       
+YEESTOR|得一微电子 |![  ](/images/元器件供应商图标/  .png)   
+Ingenic|君正集成电路 |![  ](/images/元器件供应商图标/  .png)  
+Maxio|联芸科技|![  ](/images/元器件供应商图标/  .png)     
+Smic|中芯国际|![  ](/images/元器件供应商图标/  .png)   
+Ymtc|长江存储|![  ](/images/元器件供应商图标/  .png)|		
 
 # 电子元器件分销商及产品线
 
@@ -1394,3 +1392,7 @@ Ymtc|长江存储
 官网：http://www.yc-ic.com/ 
 
 主要产品线：Altera，XILINX，ADI，MAXIM，LINEAR，infineon，Microchip，Lattice，Allegro，Intel，Freescale，MOTOROLA，NXP，PHILIPS，ST，NEC，DALLAS，Avago，Samsung，Hynix，ISSI，AVX，muRata，YAGEO，KEMET
+
+
+
+![  ](/images/元器件供应商图标/  .png)
